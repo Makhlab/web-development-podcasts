@@ -11,6 +11,8 @@
 
 #Podcast List
 
+JS PODCAST RU https://soundcloud.com/devschacht
+
 <img src="http://coderesponsible.com/wp-content/uploads/front-end-happy-hour-logo.jpg" width="100" alt="Front End Happy Hour">
     [Front End Happy Hour](http://frontendhappyhour.com/)
 
